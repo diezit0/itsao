@@ -29,6 +29,7 @@
   <body>
     <div class="container-fluid text-center" style="background:#ff4633;">
       <h1 class="highlight-text">BIENVENIDO A ITSAO</h1>
+      <h1 class="highlight-text">Diego Daniel Vazquez</h1>
       <img src="Cliente\Captura de pantalla 2023-04-08 231834.png" width="100" height="100" class="mx-auto d-block rotate">
     </div>
 
